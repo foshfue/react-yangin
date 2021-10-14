@@ -7,6 +7,7 @@ import Companies from "./Companies";
 import ContactUsPage from "./ContactUsPage";
 import ContactUs from "./pages/ContactUs";
 import Sektor from "./Sektor";
+import Sektorlerimiz from "./Sektorlerimiz";
 
 ReactDOM.render(
   <React.StrictMode>

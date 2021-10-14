@@ -6,7 +6,7 @@ import App from "./App";
 import Companies from "./Companies";
 import ContactUsPage from "./ContactUsPage";
 import ContactUs from "./pages/ContactUs";
-import Sektor from "./Sektor";
+import Sektorlerimiz from "./Sektorlerimiz";
 
 ReactDOM.render(
   <React.StrictMode>
@@ -14,8 +14,8 @@ ReactDOM.render(
     {/* <App /> */}
     {/* <Companies /> */}
     {/* <Page404 /> */}
-    {/* <ContactUsPage /> */}
     <Sektor />
+    {/* <ContactUsPage /> */}
   </React.StrictMode>,
   document.getElementById("root")
 );
